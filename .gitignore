@@ -1,0 +1,6 @@
+source/
+_tmp_encrypted/
+.DS_Store
+Thumbs.db
+*.bak
+node_modules/
